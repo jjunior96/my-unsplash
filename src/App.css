@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 20px;
+  transition: box-shadow 0.3s;
+}
+
+img:hover {
+  box-shadow: 0 0 20px #111;
+}
+
+.photos-list {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 2.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+li {
+  max-width: 800px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 2.4rem;
+}
+
+a {
+  text-decoration: none;
+  overflow: hidden;
+}
