@@ -10,7 +10,6 @@
 - [Sobre](#about)
 - [Objetivo](#purpose)
 - [Status](#status)
-<!-- - [Preview](#preview) -->
 - [Executando](#running)
 - [Tecnologias](#techs)
 - [Autor](#author)
@@ -26,8 +25,6 @@ O objetivo dessa aplicação é aplicar os conhecimentos aprendidos em ReactJS, 
 ## Status <a name="status"></a>
 
 Esse projeto se encontra em desenvolvimento.
-
-<!-- ## Preview <a name="purpose"></a> -->
 
 ## Executando <a name="running"></a>
 
