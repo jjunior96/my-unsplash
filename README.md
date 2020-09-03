@@ -9,6 +9,7 @@
 
 - [Sobre](#about)
 - [Objetivo](#purpose)
+- [Status](#status)
 <!-- - [Preview](#preview) -->
 - [Executando](#running)
 - [Tecnologias](#techs)
@@ -21,6 +22,10 @@ A aplicação My-Unsplash consiste em consumir a API do [Unsplash](https://unspl
 ## Objetivo <a name="purpose"></a>
 
 O objetivo dessa aplicação é aplicar os conhecimentos aprendidos em ReactJS, consumo de APIs externas com o axios e estilização com Styled Components.
+
+## Status <a name="status"></a>
+
+Esse projeto se encontra em desenvolvimento.
 
 <!-- ## Preview <a name="purpose"></a> -->
 
