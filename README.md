@@ -1,26 +1,57 @@
-## Available Scripts
+<!-- Obrigado por ter aberto esse Readme, qualquer duvida, entre em contato nos links no final desse README. -->
 
-In the project directory, you can run:
+<p align="center">
+    Projeto construído com conhecimentos em ReactJS, consumindo a API do Unsplash.
+    <br>
+</p>
 
-### `yarn start`
+## 📝 Tópicos
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Sobre](#about)
+- [Objetivo](#purpose)
+<!-- - [Preview](#preview) -->
+- [Executando](#running)
+- [Tecnologias](#techs)
+- [Autor](#author)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Sobre <a name="about"></a>
 
-### `yarn test`
+A aplicação My-Unsplash consiste em consumir a API do [Unsplash](https://unsplash.com/) e exibir as imagens para o usuário.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Objetivo <a name="purpose"></a>
 
-### `yarn build`
+O objetivo dessa aplicação é aplicar os conhecimentos aprendidos em ReactJS, consumo de APIs externas com o axios e estilização com Styled Components.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ## Preview <a name="purpose"></a> -->
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Executando <a name="running"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Executar na raiz do projeto o seguinte comando para instalar as dependências:
+
+```sh
+yarn install
+```
+
+ou
+
+```sh
+npm install
+```
+
+Após a instalação das dependências, executar o comando:
+
+```sh
+yarn start
+```
+
+## Tecnologias <a name="techs"></a>
+
+- [ReactJS](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+
+## Autor <a name="author"></a>
+
+- Site: [Junior Alves](https://alvesjunior.netlify.app/)
+- Github: [Junior Alves](https://github.com/jjunior96/)
+- LinkedIn: [Junior Alves](https://www.linkedin.com/in/junior-alves-b66a10127/)
